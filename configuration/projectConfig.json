@@ -1,6 +1,6 @@
 {
     "projectName": "mlops-e2e",
-    "repoType": "codecommi",
+    "repoType": "git",
     "git": {
         "githubConnectionArn": "arn:aws:codestar-connections:eu-central-1:016517478413:connection/14163539-876f-4ed7-a91a-e88372b5fe1b",
         "githubRepoOwner": "aitrashpanda",
